@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1586859147 source:c:\users\piotrek\documents\cbprojekty\popraw11\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1586859147 source:c:\users\piotrek\documents\ps-2020\kolo1\zestaw11\popraw11\main.c
+	<stdio.h>
+	<stdlib.h>
+
